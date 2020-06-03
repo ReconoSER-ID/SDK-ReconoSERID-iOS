@@ -17,6 +17,6 @@ El SDK Solicita los permisos al sistema de:
 * Cámara
 * Teléfono
 
-[Ver documentación](https://github.com/ReconoSERID/SDK-ReconoSerId-Android/wiki)
+[Ver documentación](https://github.com/ReconoSER-ID/SDK-ReconoSERID-iOS/wiki)
 
 
