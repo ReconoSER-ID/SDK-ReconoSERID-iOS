@@ -36,7 +36,7 @@ This SDK integrates with the reconoSER ID administrator API, allowing you to vis
 
 SDK Requests permissions to the system from:
 
-* Internet
+* Internet s
 * Camera
 * Phone
 
